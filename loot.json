@@ -2317,7 +2317,7 @@
     "possible_coords": [
       {
         "X": 164,
-        "Y": 432,
+        "Y": -432,
         "region_id": "WLD_Main_A"
       }
     ]
