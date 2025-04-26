@@ -278,11 +278,11 @@
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -28,
           "Y": 170,
-          "Z": null
+          "Z": 28
         }
       },
       {
@@ -801,11 +801,11 @@
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -152,
           "Y": -191,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -990,29 +990,29 @@
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -105,
           "Y": 18,
-          "Z": null
+          "Z": 26
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -821,
           "Y": -752,
-          "Z": null
+          "Z": 10
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -647,
-          "Y": -758,
-          "Z": null
+          "X": -640,
+          "Y": -753,
+          "Z": -5
         }
       },
       {
@@ -1944,11 +1944,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       },
       {
@@ -3271,20 +3271,20 @@
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -544,
           "Y": -1447,
-          "Z": null
+          "Z": -100
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -516,
           "Y": -1397,
-          "Z": null
+          "Z": -81
         }
       }
     ]
@@ -3341,11 +3341,11 @@
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -658,
-          "Y": 753,
-          "Z": null
+          "Y": -753,
+          "Z": 0
         }
       }
     ]
@@ -4215,20 +4215,20 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 0,
           "Y": -15,
-          "Z": null
+          "Z": 42
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -63,
           "Y": 172,
-          "Z": null
+          "Z": 33
         }
       }
     ]
@@ -4241,11 +4241,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -52,
           "Y": 11,
-          "Z": null
+          "Z": 33
         }
       }
     ]
@@ -4258,11 +4258,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -60,
-          "Y": -114,
-          "Z": null
+          "X": -58,
+          "Y": -118,
+          "Z": 11
         }
       }
     ]
@@ -4275,11 +4275,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 80,
           "Y": -96,
-          "Z": null
+          "Z": 49
         }
       }
     ]
@@ -4292,11 +4292,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 100,
           "Y": -54,
-          "Z": null
+          "Z": 52
         }
       }
     ]
@@ -4309,11 +4309,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 0,
           "Y": -15,
-          "Z": null
+          "Z": 42
         }
       }
     ]
@@ -4326,11 +4326,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -12,
-          "Y": -7,
-          "Z": null
+          "X": -15,
+          "Y": -6,
+          "Z": 41
         }
       }
     ]
@@ -4343,11 +4343,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 76,
           "Y": 37,
-          "Z": null
+          "Z": 44
         }
       }
     ]
@@ -4360,11 +4360,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 76,
-          "Y": 40,
-          "Z": null
+          "X": 77,
+          "Y": 42,
+          "Z": 42
         }
       }
     ]
@@ -4377,11 +4377,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": 40,
-          "Y": 60,
-          "Z": null
+          "X": 31,
+          "Y": 58,
+          "Z": 50
         }
       }
     ]
@@ -4394,11 +4394,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 29,
           "Y": 63,
-          "Z": null
+          "Z": 59
         }
       }
     ]
@@ -4411,11 +4411,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 108,
           "Y": 128,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -4428,11 +4428,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -49,
           "Y": 36,
-          "Z": null
+          "Z": 34
         }
       }
     ]
@@ -4445,11 +4445,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -34,
           "Y": -12,
-          "Z": null
+          "Z": 26
         }
       }
     ]
@@ -4462,11 +4462,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 126,
           "Y": 106,
-          "Z": null
+          "Z": 55
         }
       }
     ]
@@ -4479,11 +4479,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4496,11 +4496,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4513,11 +4513,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4530,11 +4530,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4547,11 +4547,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4564,11 +4564,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4581,11 +4581,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4598,11 +4598,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4615,11 +4615,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4632,11 +4632,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4649,11 +4649,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4666,11 +4666,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4683,11 +4683,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -31,
           "Y": 130,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4700,11 +4700,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4717,11 +4717,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4734,11 +4734,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4751,11 +4751,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4768,11 +4768,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4785,11 +4785,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       },
       {
@@ -4811,11 +4811,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4828,11 +4828,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4845,11 +4845,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4862,11 +4862,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4879,11 +4879,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -33,
           "Y": 164,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -4896,11 +4896,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -56,
           "Y": 141,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4913,11 +4913,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -56,
           "Y": 141,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4930,11 +4930,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -56,
           "Y": 133,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4947,11 +4947,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -56,
           "Y": 133,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4964,11 +4964,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -56,
           "Y": 133,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -4981,15 +4981,15 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -28,
           "Y": 170,
-          "Z": null
+          "Z": 28
         }
       },
       {
-        "RegionId": "SCL_Main_A",
+        "RegionId": "BGO_Main_A",
         "Acquisition": null,
         "Position": {
           "X": 39,
@@ -5007,11 +5007,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -80,
-          "Y": 158,
-          "Z": null
+          "X": -77,
+          "Y": 155,
+          "Z": 28
         }
       }
     ]
@@ -5024,11 +5024,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 47,
           "Y": -738,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -5041,11 +5041,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 33,
           "Y": -697,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -5058,11 +5058,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -63,
           "Y": 163,
-          "Z": null
+          "Z": 33
         }
       }
     ]
@@ -5075,20 +5075,20 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -60,
           "Y": 158,
-          "Z": null
+          "Z": 33
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 861,
           "Y": -23,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -5101,20 +5101,20 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -60,
           "Y": 158,
-          "Z": null
+          "Z": 33
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 861,
           "Y": -23,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -5127,11 +5127,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -56,
           "Y": 141,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -5144,11 +5144,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 33,
+          "X": 31,
           "Y": 145,
-          "Z": null
+          "Z": 24
         }
       }
     ]
@@ -5161,11 +5161,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -22,
-          "Y": 175,
-          "Z": null
+          "X": -20,
+          "Y": 177,
+          "Z": 32
         }
       }
     ]
@@ -5178,11 +5178,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -3,
           "Y": 215,
-          "Z": null
+          "Z": 33
         }
       }
     ]
@@ -5195,11 +5195,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -28,
           "Y": 129,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -5212,11 +5212,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -158,
           "Y": 73,
-          "Z": null
+          "Z": 32
         }
       }
     ]
@@ -5229,20 +5229,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -147,
           "Y": 43,
-          "Z": null
-        }
-      },
-      {
-        "RegionId": "SCL_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": -212,
-          "Y": 0,
-          "Z": null
+          "Z": 32
         }
       }
     ]
@@ -5255,20 +5246,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -212,
+          "X": -210,
           "Y": 0,
-          "Z": null
-        }
-      },
-      {
-        "RegionId": "SCL_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": -147,
-          "Y": 43,
-          "Z": null
+          "Z": 32
         }
       }
     ]
@@ -5281,11 +5263,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 107,
           "Y": -758,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -5298,11 +5280,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -199,
+          "X": -195,
           "Y": 78,
-          "Z": null
+          "Z": 31
         }
       }
     ]
@@ -5315,11 +5297,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -201,
           "Y": 49,
-          "Z": null
+          "Z": 30
         }
       }
     ]
@@ -5360,11 +5342,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 249,
-          "Y": -847,
-          "Z": null
+          "X": 250,
+          "Y": -846,
+          "Z": 2
         }
       }
     ]
@@ -5377,11 +5359,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -112,
           "Y": -92,
-          "Z": null
+          "Z": 29
         }
       }
     ]
@@ -5394,11 +5376,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -127,
           "Y": -95,
-          "Z": null
+          "Z": 29
         }
       }
     ]
@@ -5411,11 +5393,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -84,
-          "Y": -88,
-          "Z": null
+          "X": -82,
+          "Y": -90,
+          "Z": 28
         }
       }
     ]
@@ -5428,11 +5410,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -127,
+          "X": -125,
           "Y": -78,
-          "Z": null
+          "Z": 29
         }
       }
     ]
@@ -5445,11 +5427,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -224,
           "Y": -78,
-          "Z": null
+          "Z": 16
         }
       }
     ]
@@ -5462,11 +5444,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -253,
-          "Y": -71,
-          "Z": null
+          "X": -251,
+          "Y": -66,
+          "Z": 22
         }
       }
     ]
@@ -5479,11 +5461,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -123,
-          "Y": -77,
-          "Z": null
+          "X": -125,
+          "Y": -78,
+          "Z": 29
         }
       }
     ]
@@ -5496,11 +5478,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -250,
           "Y": 36,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -5513,11 +5495,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -252,
+          "X": -250,
           "Y": 36,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -5530,11 +5512,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -193,
-          "Y": 9,
-          "Z": null
+          "Y": 11,
+          "Z": 31
         }
       }
     ]
@@ -5547,11 +5529,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -148,
           "Y": 115,
-          "Z": null
+          "Z": 22
         }
       }
     ]
@@ -5564,11 +5546,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -165,
-          "Y": 45,
-          "Z": null
+          "Y": 46,
+          "Z": 33
         }
       }
     ]
@@ -5581,11 +5563,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 82,
-          "Y": -1006,
-          "Z": null
+          "Y": -1007,
+          "Z": 27
         }
       }
     ]
@@ -5598,11 +5580,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 85,
+          "X": 82,
           "Y": -1007,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -5615,11 +5597,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 46,
-          "Y": -1005,
-          "Z": null
+          "X": 47,
+          "Y": -1010,
+          "Z": 26
         }
       }
     ]
@@ -5632,11 +5614,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 9,
-          "Y": -981,
-          "Z": null
+          "X": 7,
+          "Y": -974,
+          "Z": 26
         }
       }
     ]
@@ -5649,11 +5631,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 29,
           "Y": -930,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -5666,11 +5648,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 44,
           "Y": -942,
-          "Z": null
+          "Z": -2
         }
       }
     ]
@@ -5683,11 +5665,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5700,11 +5682,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5717,11 +5699,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5734,11 +5716,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5751,11 +5733,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5768,11 +5750,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5785,11 +5767,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5802,11 +5784,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -174,
           "Y": -179,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5819,11 +5801,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5836,11 +5818,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5853,11 +5835,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5870,11 +5852,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5887,11 +5869,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5904,11 +5886,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5921,11 +5903,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5938,11 +5920,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5955,11 +5937,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5972,11 +5954,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -164,
           "Y": -167,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -5989,11 +5971,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6006,11 +5988,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6023,11 +6005,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6040,11 +6022,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6057,11 +6039,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6074,11 +6056,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6091,11 +6073,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -128,
           "Y": -193,
-          "Z": null
+          "Z": 23
         }
       }
     ]
@@ -6115,11 +6097,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -257,
-          "Y": -886,
-          "Z": null
+          "X": -260,
+          "Y": -885,
+          "Z": -31
         }
       }
     ]
@@ -6132,29 +6114,29 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -845,
           "Y": -793,
-          "Z": null
+          "Z": 9
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 715,
           "Y": -49,
-          "Z": null
+          "Z": 16
         }
       }
     ]
@@ -6167,11 +6149,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -821,
           "Y": -752,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -6184,11 +6166,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -730,
-          "Y": -800,
-          "Z": null
+          "Y": -803,
+          "Z": 9
         }
       }
     ]
@@ -6201,11 +6183,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -713,
           "Y": -732,
-          "Z": null
+          "Z": -46
         }
       }
     ]
@@ -6218,11 +6200,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -713,
           "Y": -732,
-          "Z": null
+          "Z": -46
         }
       }
     ]
@@ -6235,11 +6217,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -653,
-          "Y": -764,
-          "Z": null
+          "X": -640,
+          "Y": -753,
+          "Z": -5
         }
       }
     ]
@@ -6252,11 +6234,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -660,
-          "Y": -760,
-          "Z": null
+          "X": -662,
+          "Y": -762,
+          "Z": -6
         }
       }
     ]
@@ -6269,11 +6251,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -632,
+          "X": -634,
           "Y": -723,
-          "Z": null
+          "Z": -5
         }
       }
     ]
@@ -6286,11 +6268,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -833,
           "Y": -729,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -6303,11 +6285,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -820,
-          "Y": -756,
-          "Z": null
+          "X": -818,
+          "Y": -755,
+          "Z": -33
         }
       }
     ]
@@ -6320,11 +6302,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -818,
           "Y": -755,
-          "Z": null
+          "Z": -33
         }
       }
     ]
@@ -6337,11 +6319,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -822,
-          "Y": -753,
-          "Z": null
+          "X": -825,
+          "Y": -755,
+          "Z": -34
         }
       }
     ]
@@ -6354,11 +6336,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       }
     ]
@@ -6371,11 +6353,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       }
     ]
@@ -6388,11 +6370,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       }
     ]
@@ -6405,11 +6387,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       }
     ]
@@ -6422,11 +6404,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -604,
           "Y": -1431,
-          "Z": null
+          "Z": -140
         }
       }
     ]
@@ -6439,11 +6421,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -132,
           "Y": -175,
-          "Z": null
+          "Z": 39
         }
       }
     ]
@@ -6456,11 +6438,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -155,
           "Y": -173,
-          "Z": null
+          "Z": 38
         }
       }
     ]
@@ -6473,11 +6455,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -150,
           "Y": -202,
-          "Z": null
+          "Z": 38
         }
       }
     ]
@@ -6490,11 +6472,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 569,
           "Y": -650,
-          "Z": null
+          "Z": 34
         }
       }
     ]
@@ -6507,11 +6489,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 572,
+          "X": 575,
           "Y": -652,
-          "Z": null
+          "Z": 34
         }
       }
     ]
@@ -6524,11 +6506,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 575,
-          "Y": -647,
-          "Z": null
+          "Y": -652,
+          "Z": 34
         }
       }
     ]
@@ -6541,56 +6523,56 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -162,
           "Y": -203,
-          "Z": null
+          "Z": 38
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -146,
           "Y": -213,
-          "Z": null
+          "Z": 72
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 727,
           "Y": 41,
-          "Z": null
+          "Z": 16
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 597,
           "Y": -655,
-          "Z": null
+          "Z": 25
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": 596,
-          "Y": -651,
-          "Z": null
+          "X": 597,
+          "Y": -655,
+          "Z": 25
         }
       },
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": 596,
-          "Y": -647,
-          "Z": null
+          "X": 597,
+          "Y": -655,
+          "Z": 25
         }
       }
     ]
@@ -6603,11 +6585,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -153,
           "Y": -170,
-          "Z": null
+          "Z": 80
         }
       }
     ]
@@ -6620,11 +6602,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -170,
           "Y": -171,
-          "Z": null
+          "Z": 38
         }
       }
     ]
@@ -6637,11 +6619,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -150,
           "Y": -165,
-          "Z": null
+          "Z": 39
         }
       }
     ]
@@ -6654,11 +6636,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -171,
           "Y": -195,
-          "Z": null
+          "Z": 39
         }
       }
     ]
@@ -6671,11 +6653,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -196,
           "Y": -195,
-          "Z": null
+          "Z": 22
         }
       }
     ]
@@ -6688,11 +6670,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 676,
           "Y": 39,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -6705,11 +6687,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 663,
           "Y": -74,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -6722,11 +6704,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 747,
-          "Y": -38,
-          "Z": null
+          "X": 751,
+          "Y": -139,
+          "Z": 11
         }
       },
       {
@@ -6748,11 +6730,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 748,
-          "Y": -141,
-          "Z": null
+          "X": 751,
+          "Y": -139,
+          "Z": 11
         }
       }
     ]
@@ -6765,11 +6747,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 748,
-          "Y": -141,
-          "Z": null
+          "X": 751,
+          "Y": -139,
+          "Z": 11
         }
       }
     ]
@@ -6782,11 +6764,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
-          "X": 750,
+          "X": 751,
           "Y": -139,
-          "Z": null
+          "Z": 11
         }
       }
     ]
@@ -6799,11 +6781,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 861,
           "Y": -23,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -6816,11 +6798,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 861,
           "Y": -23,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -6833,11 +6815,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 861,
           "Y": -23,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -6864,11 +6846,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -249,
-          "Y": -33,
-          "Z": null
+          "X": -250,
+          "Y": -34,
+          "Z": 31
         }
       }
     ]
@@ -6881,11 +6863,11 @@
     "Locations": [
       {
         "RegionId": "SCL_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -249,
-          "Y": -33,
-          "Z": null
+          "X": -250,
+          "Y": -34,
+          "Z": 31
         }
       }
     ]
@@ -6911,7 +6893,7 @@
     "Description": "Dropped by Prelate Lir\u0027i\u0027c.",
     "Locations": [
       {
-        "RegionId": "SCL_Main_A",
+        "RegionId": "BGO_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -163,
