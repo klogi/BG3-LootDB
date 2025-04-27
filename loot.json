@@ -287,11 +287,11 @@
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 39,
           "Y": -149,
-          "Z": null
+          "Z": 52
         }
       }
     ]
@@ -2243,15 +2243,15 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 2,
+          "X": 0,
           "Y": 100,
-          "Z": null
+          "Z": 53
         }
       },
       {
-        "RegionId": "BGO_Main_A",
+        "RegionId": "CTY_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -746,
@@ -4155,11 +4155,11 @@
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -97,
-          "Y": 107,
-          "Z": null
+          "X": -95,
+          "Y": 110,
+          "Z": 4
         }
       }
     ]
@@ -4189,11 +4189,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 25,
           "Y": 98,
-          "Z": null
+          "Z": 50
         }
       },
       {
@@ -4990,11 +4990,11 @@
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 39,
           "Y": -149,
-          "Z": null
+          "Z": 52
         }
       }
     ]
@@ -6893,12 +6893,12 @@
     "Description": "Dropped by Prelate Lir\u0027i\u0027c.",
     "Locations": [
       {
-        "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "RegionId": "INT_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -163,
           "Y": -1158,
-          "Z": null
+          "Z": -17
         }
       }
     ]
@@ -6918,11 +6918,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 43,
-          "Y": -101,
-          "Z": null
+          "X": 44,
+          "Y": -97,
+          "Z": 48
         }
       }
     ]
@@ -6935,11 +6935,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 43,
-          "Y": -101,
-          "Z": null
+          "X": 44,
+          "Y": -97,
+          "Z": 48
         }
       }
     ]
@@ -6952,11 +6952,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 43,
-          "Y": -101,
-          "Z": null
+          "X": 44,
+          "Y": -97,
+          "Z": 48
         }
       }
     ]
@@ -6968,7 +6968,7 @@
     "Description": "360 gp.",
     "Locations": [
       {
-        "RegionId": "BGO_Main_A",
+        "RegionId": "CTY_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -711,
@@ -6978,11 +6978,11 @@
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 44,
           "Y": -97,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -6995,11 +6995,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 43,
-          "Y": -101,
-          "Z": null
+          "X": 44,
+          "Y": -97,
+          "Z": 48
         }
       }
     ]
@@ -7012,11 +7012,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 43,
-          "Y": -101,
-          "Z": null
+          "X": 44,
+          "Y": -97,
+          "Z": 48
         }
       }
     ]
@@ -7029,11 +7029,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 56,
-          "Y": -120,
-          "Z": null
+          "X": 58,
+          "Y": -124,
+          "Z": 42
         }
       }
     ]
@@ -7046,11 +7046,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 56,
-          "Y": -120,
-          "Z": null
+          "X": 58,
+          "Y": -124,
+          "Z": 42
         }
       }
     ]
@@ -7063,20 +7063,20 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 30,
           "Y": 29,
-          "Z": null
+          "Z": 31
         }
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -241,
           "Y": -1065,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -7089,20 +7089,20 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 30,
           "Y": 29,
-          "Z": null
+          "Z": 31
         }
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -241,
           "Y": -1065,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -7115,20 +7115,20 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 30,
           "Y": 29,
-          "Z": null
+          "Z": 31
         }
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -241,
           "Y": -1065,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -7141,11 +7141,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7158,11 +7158,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7175,11 +7175,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7192,11 +7192,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7209,11 +7209,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7226,11 +7226,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7243,11 +7243,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -10,
           "Y": 143,
-          "Z": null
+          "Z": 48
         }
       }
     ]
@@ -7260,11 +7260,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7277,11 +7277,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7294,11 +7294,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7311,11 +7311,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7328,11 +7328,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7345,11 +7345,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 7,
-          "Y": -35,
-          "Z": null
+          "Y": -31,
+          "Z": 46
         }
       }
     ]
@@ -7362,11 +7362,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -222,
           "Y": 93,
-          "Z": null
+          "Z": 3
         }
       }
     ]
@@ -7386,11 +7386,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 67,
           "Y": -1018,
-          "Z": null
+          "Z": -12
         }
       }
     ]
@@ -7403,11 +7403,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -210,
           "Y": 99,
-          "Z": null
+          "Z": 3
         }
       }
     ]
@@ -7420,11 +7420,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 21,
           "Y": 85,
-          "Z": null
+          "Z": 45
         }
       }
     ]
@@ -7437,20 +7437,20 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1340,
           "Y": -857,
-          "Z": null
+          "Z": 3
         }
       },
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -233,
           "Y": 84,
-          "Z": null
+          "Z": 5
         }
       }
     ]
@@ -7463,11 +7463,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 44,
           "Y": -38,
-          "Z": null
+          "Z": 57
         }
       }
     ]
@@ -7480,11 +7480,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -45,
           "Y": -5,
-          "Z": null
+          "Z": 62
         }
       }
     ]
@@ -7497,15 +7497,15 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 100,
           "Y": -17,
-          "Z": null
+          "Z": 51
         }
       },
       {
-        "RegionId": "BGO_Main_A",
+        "RegionId": "CTY_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -1925,
@@ -7523,11 +7523,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 23,
           "Y": 131,
-          "Z": null
+          "Z": 44
         }
       }
     ]
@@ -7540,11 +7540,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 23,
           "Y": 131,
-          "Z": null
+          "Z": 44
         }
       }
     ]
@@ -7557,28 +7557,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -90,
           "Y": -7,
-          "Z": null
-        }
-      }
-    ]
-  },
-  {
-    "Icon": "https://steamuserimages-a.akamaihd.net/ugc/2113934296263740056/A4F3435E7BB741123516D6742890FD046099DDCE/",
-    "Name": "Tarnished Ring",
-    "Wiki": "https://bg3.wiki/wiki/Tarnished_Ring",
-    "Description": "To craft it, merge the Ringless Gem (available from Ferg Drogher at (X: 45 Y: -98) or through pickpocketing) with the Gemless Ring (found on the Refugee Corpse at (X: 46 Y: 66) in northeastern Rivington).",
-    "Locations": [
-      {
-        "RegionId": "BGO_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": -23,
-          "Y": 741,
-          "Z": null
+          "Z": 43
         }
       }
     ]
@@ -7590,7 +7573,7 @@
     "Description": "The Orphic Hammer can be obtained by making a deal with Raphael as part of the quest \u0022Deal with the Devil\u0022 at Sharess\u0027 Caress. If a deal was not made with Raphael, the hammer can instead be stolen from the Archive within the House of Hope.",
     "Locations": [
       {
-        "RegionId": "BGO_Main_A",
+        "RegionId": "CTY_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -6543,
@@ -7608,11 +7591,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7625,11 +7608,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7642,11 +7625,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7659,11 +7642,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7676,11 +7659,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7693,11 +7676,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -67,
           "Y": -73,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7710,11 +7693,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -43,
           "Y": -35,
-          "Z": null
+          "Z": 44
         }
       }
     ]
@@ -7727,11 +7710,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -82,
           "Y": -33,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7744,11 +7727,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -85,
-          "Y": -24,
-          "Z": null
+          "X": -82,
+          "Y": -20,
+          "Z": 76
         }
       }
     ]
@@ -7761,11 +7744,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -82,
           "Y": -33,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7778,11 +7761,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -90,
           "Y": -56,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7802,11 +7785,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1566,
           "Y": -1522,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -7819,11 +7802,11 @@
     "Locations": [
       {
         "RegionId": "BGO_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1511,
           "Y": -1522,
-          "Z": null
+          "Z": -7
         }
       }
     ]
@@ -9062,7 +9045,7 @@
     "Description": "Looted from High Security Vault n\u00B01 in The Counting House.",
     "Locations": [
       {
-        "RegionId": "BGO_Main_A",
+        "RegionId": "CTY_Main_A",
         "Acquisition": null,
         "Position": {
           "X": -711,
