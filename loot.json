@@ -11,7 +11,7 @@
         "Position": {
           "X": -53,
           "Y": -391,
-          "Z": 4095
+          "Z": 256
         }
       }
     ]
@@ -457,11 +457,11 @@
       },
       {
         "RegionId": "END_Main",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 235,
           "Y": 44,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -686,11 +686,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -2329,
           "Y": -95,
-          "Z": null
+          "Z": 12
         }
       }
     ]
@@ -868,11 +868,11 @@
       },
       {
         "RegionId": "END_Main",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 235,
           "Y": 44,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -1017,11 +1017,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1078,
           "Y": 312,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -1213,11 +1213,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": "buy",
+        "Acquisition": "loot",
         "Position": {
-          "X": -2,
+          "X": -1,
           "Y": -66,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -2252,11 +2252,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -746,
+          "X": -743,
           "Y": 584,
-          "Z": null
+          "Z": 1
         }
       },
       {
@@ -2337,11 +2337,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -2,
+          "X": -1,
           "Y": -66,
-          "Z": null
+          "Z": 27
         }
       }
     ]
@@ -2601,11 +2601,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -85,
           "Y": -185,
-          "Z": null
+          "Z": 7
         }
       }
     ]
@@ -4198,11 +4198,11 @@
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -70,
           "Y": 826,
-          "Z": null
+          "Z": 20
         }
       }
     ]
@@ -4794,11 +4794,11 @@
       },
       {
         "RegionId": "END_Main",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 235,
           "Y": 44,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -6713,11 +6713,11 @@
       },
       {
         "RegionId": "END_Main",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 235,
           "Y": 44,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -6969,11 +6969,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -711,
-          "Y": 864,
-          "Z": null
+          "X": -708,
+          "Y": 859,
+          "Z": 33
         }
       },
       {
@@ -7503,15 +7503,6 @@
           "Y": -17,
           "Z": 51
         }
-      },
-      {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": -1925,
-          "Y": 836,
-          "Z": null
-        }
       }
     ]
   },
@@ -7574,11 +7565,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -6543,
           "Y": 2921,
-          "Z": null
+          "Z": 6
         }
       }
     ]
@@ -7819,11 +7810,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 392,
-          "Y": 766,
-          "Z": null
+          "X": 177,
+          "Y": 563,
+          "Z": 19
         }
       }
     ]
@@ -7836,11 +7827,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 392,
-          "Y": 766,
-          "Z": null
+          "X": 177,
+          "Y": 563,
+          "Z": 19
         }
       }
     ]
@@ -7853,11 +7844,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": 392,
-          "Y": 766,
-          "Z": null
+          "X": 177,
+          "Y": 563,
+          "Z": 19
         }
       }
     ]
@@ -7870,11 +7861,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 107,
           "Y": -22,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7887,11 +7878,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 107,
           "Y": -22,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7904,11 +7895,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 107,
           "Y": -22,
-          "Z": null
+          "Z": 46
         }
       }
     ]
@@ -7921,20 +7912,20 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1,
           "Y": -39,
-          "Z": null
+          "Z": 48
         }
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -29,
           "Y": 6,
-          "Z": null
+          "Z": 50
         }
       }
     ]
@@ -7947,11 +7938,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 393,
+          "X": 392,
           "Y": 763,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -7964,11 +7955,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": 393,
+          "X": 392,
           "Y": 763,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -7981,11 +7972,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 392,
-          "Y": 766,
-          "Z": null
+          "Y": 763,
+          "Z": 4
         }
       }
     ]
@@ -8005,20 +7996,20 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 20,
           "Y": -34,
-          "Z": null
+          "Z": 38
         }
       },
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "loot",
         "Position": {
           "X": -14,
           "Y": 75,
-          "Z": null
+          "Z": 52
         }
       }
     ]
@@ -8031,11 +8022,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 20,
           "Y": -34,
-          "Z": null
+          "Z": 38
         }
       }
     ]
@@ -8048,20 +8039,20 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 20,
           "Y": -34,
-          "Z": null
+          "Z": 38
         }
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -8074,11 +8065,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -55,
           "Y": -147,
-          "Z": null
+          "Z": 21
         }
       }
     ]
@@ -8091,11 +8082,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1572,
           "Y": 976,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8108,11 +8099,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1572,
           "Y": 976,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8125,11 +8116,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1572,
           "Y": 976,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8142,11 +8133,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 796,
           "Y": 1159,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8159,11 +8150,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 796,
           "Y": 1159,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8176,11 +8167,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 796,
           "Y": 1159,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8193,11 +8184,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -2343,
           "Y": 811,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8210,11 +8201,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 7,
           "Y": 24,
-          "Z": null
+          "Z": 40
         }
       }
     ]
@@ -8227,11 +8218,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -148,
           "Y": -60,
-          "Z": null
+          "Z": 32
         }
       }
     ]
@@ -8244,11 +8235,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -250,
           "Y": -44,
-          "Z": null
+          "Z": 30
         }
       }
     ]
@@ -8261,11 +8252,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1283,
           "Y": 252,
-          "Z": null
+          "Z": 5
         }
       }
     ]
@@ -8278,11 +8269,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -248,
+          "X": -247,
           "Y": -249,
-          "Z": null
+          "Z": 11
         }
       }
     ]
@@ -8295,11 +8286,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -1048,
           "Y": 312,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8312,11 +8303,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -859,
           "Y": 531,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8329,11 +8320,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -731,
           "Y": 553,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -8346,11 +8337,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -728,
           "Y": 588,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8363,11 +8354,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -727,
           "Y": 589,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8380,11 +8371,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -727,
           "Y": 589,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8404,11 +8395,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -123,
           "Y": 834,
-          "Z": null
+          "Z": 26
         }
       }
     ]
@@ -8421,11 +8412,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -124,
           "Y": 827,
-          "Z": null
+          "Z": 26
         }
       }
     ]
@@ -8438,11 +8429,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -41,
           "Y": -71,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -8455,11 +8446,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -36,
           "Y": -83,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -8472,11 +8463,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -36,
           "Y": -83,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -8489,11 +8480,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8506,11 +8497,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8523,11 +8514,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8540,11 +8531,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8557,11 +8548,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8574,11 +8565,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 14,
           "Y": -160,
-          "Z": null
+          "Z": 10
         }
       }
     ]
@@ -8587,15 +8578,15 @@
     "Icon": "https://steamuserimages-a.akamaihd.net/ugc/2113933409592624480/ABF40CAA81A21E4C0B9CA549D590F64770B2D78B/",
     "Name": "Breaching Pikestaff",
     "Wiki": "https://bg3.wiki/wiki/Breaching_Pikestaff",
-    "Description": "190\u202Fgp.",
+    "Description": "Ancient Lair X: -1393 Y: 56: On a coffin in the center of the tomb.",
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1393,
           "Y": 56,
-          "Z": null
+          "Z": 3
         }
       }
     ]
@@ -8608,11 +8599,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 4960,
           "Y": 705,
-          "Z": null
+          "Z": 3
         }
       }
     ]
@@ -8625,11 +8616,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 4960,
           "Y": 705,
-          "Z": null
+          "Z": 3
         }
       }
     ]
@@ -8642,11 +8633,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 326,
           "Y": 998,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8659,11 +8650,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 411,
           "Y": 997,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -8676,11 +8667,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 4970,
           "Y": 705,
-          "Z": null
+          "Z": -20
         }
       }
     ]
@@ -8693,11 +8684,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 366,
           "Y": 941,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8710,11 +8701,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8727,11 +8718,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8744,11 +8735,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8761,11 +8752,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8778,11 +8769,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8795,11 +8786,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
-          "X": -14,
-          "Y": -72,
-          "Z": null
+          "X": -4,
+          "Y": -79,
+          "Z": 27
         }
       }
     ]
@@ -8812,11 +8803,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 319,
           "Y": 1000,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8829,11 +8820,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 417,
           "Y": 998,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8846,11 +8837,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": 350,
           "Y": 1010,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8863,11 +8854,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 368,
           "Y": 1057,
-          "Z": null
+          "Z": 2
         }
       }
     ]
@@ -8887,11 +8878,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": 4970,
           "Y": 705,
-          "Z": null
+          "Z": -20
         }
       }
     ]
@@ -8904,11 +8895,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -325,
           "Y": -134,
-          "Z": null
+          "Z": 8
         }
       }
     ]
@@ -8935,11 +8926,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -229,
           "Y": -261,
-          "Z": null
+          "Z": 8
         }
       }
     ]
@@ -8952,11 +8943,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1952,
           "Y": 206,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -8969,11 +8960,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -400,
           "Y": -1651,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -8986,11 +8977,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -400,
           "Y": -1651,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -9002,21 +8993,21 @@
     "Description": "Offer a prayer (DC 25 Religion Check) to the Mirror of Loss in the House of Grief, then sacrifice one of the following: Constitution, Wisdom, Charisma, or your knowledge of the Necromancy of Thay. You\u0027ll receive the option to choose a \u002B2 bonus to any ability (Can be raised above 20, up to 24).",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "SCL_Main_A",
+        "Acquisition": "questReward",
         "Position": {
           "X": -645,
           "Y": -735,
-          "Z": null
+          "Z": -24
         }
       },
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -474,
           "Y": -1650,
-          "Z": null
+          "Z": 24
         }
       }
     ]
@@ -9029,11 +9020,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -400,
           "Y": -1651,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -9046,11 +9037,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -711,
-          "Y": 864,
-          "Z": null
+          "X": -708,
+          "Y": 859,
+          "Z": 33
         }
       }
     ]
@@ -9063,11 +9054,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -714,
-          "Y": 863,
-          "Z": null
+          "X": -712,
+          "Y": 859,
+          "Z": 33
         }
       }
     ]
@@ -9080,11 +9071,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -718,
-          "Y": 861,
-          "Z": null
+          "X": -717,
+          "Y": 859,
+          "Z": 33
         }
       }
     ]
@@ -9097,11 +9088,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -711,
-          "Y": 882,
-          "Z": null
+          "X": -707,
+          "Y": 885,
+          "Z": 33
         }
       }
     ]
@@ -9114,11 +9105,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -711,
-          "Y": 882,
-          "Z": null
+          "X": -712,
+          "Y": 885,
+          "Z": 33
         }
       }
     ]
@@ -9131,11 +9122,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -719,
-          "Y": 871,
-          "Z": null
+          "X": -724,
+          "Y": 869,
+          "Z": 34
         }
       }
     ]
@@ -9148,11 +9139,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -686,
-          "Y": 874,
-          "Z": null
+          "X": -683,
+          "Y": 872,
+          "Z": 35
         }
       }
     ]
@@ -9165,11 +9156,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -157,
           "Y": 939,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -9182,11 +9173,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -157,
           "Y": 939,
-          "Z": null
+          "Z": 19
         }
       }
     ]
@@ -9199,11 +9190,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -19,
           "Y": 765,
-          "Z": null
+          "Z": 31
         }
       }
     ]
@@ -9216,11 +9207,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -17,
           "Y": 755,
-          "Z": null
+          "Z": 28
         }
       }
     ]
@@ -9233,11 +9224,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -136,
           "Y": 980,
-          "Z": null
+          "Z": 0
         }
       }
     ]
@@ -9250,11 +9241,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -2329,
           "Y": -95,
-          "Z": null
+          "Z": 12
         }
       }
     ]
@@ -9267,11 +9258,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -55,
           "Y": -147,
-          "Z": null
+          "Z": 21
         }
       }
     ]
@@ -9291,11 +9282,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -65,
           "Y": -89,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -9308,11 +9299,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -65,
           "Y": -89,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -9325,11 +9316,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9342,11 +9333,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9359,11 +9350,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9376,11 +9367,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9393,20 +9384,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
-        }
-      },
-      {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": 56,
-          "Y": 1006,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9419,11 +9401,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9436,11 +9418,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -38,
           "Y": 17,
-          "Z": null
+          "Z": 37
         }
       }
     ]
@@ -9453,11 +9435,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -33,
           "Y": 20,
-          "Z": null
+          "Z": 45
         }
       }
     ]
@@ -9470,11 +9452,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -29,
           "Y": 6,
-          "Z": null
+          "Z": 50
         }
       }
     ]
@@ -9487,11 +9469,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -6482,
           "Y": 2939,
-          "Z": null
+          "Z": 14
         }
       }
     ]
@@ -9504,11 +9486,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -6486,
           "Y": 2939,
-          "Z": null
+          "Z": 14
         }
       }
     ]
@@ -9521,11 +9503,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -6478,
           "Y": 2993,
-          "Z": null
+          "Z": 11
         }
       }
     ]
@@ -9538,11 +9520,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -6549,
           "Y": 2940,
-          "Z": null
+          "Z": 8
         }
       }
     ]
@@ -9555,11 +9537,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
-          "X": -6548,
-          "Y": 2940,
-          "Z": null
+          "X": -6549,
+          "Y": 2900,
+          "Z": 8
         }
       }
     ]
@@ -9572,11 +9554,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -6481,
           "Y": 2921,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -9589,11 +9571,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -6477,
           "Y": 2884,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -9606,11 +9588,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -6477,
           "Y": 2884,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -9623,11 +9605,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -6477,
           "Y": 2884,
-          "Z": null
+          "Z": 4
         }
       }
     ]
@@ -9640,11 +9622,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1298,
           "Y": 965,
-          "Z": null
+          "Z": 58
         }
       }
     ]
@@ -9657,11 +9639,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "loot",
         "Position": {
           "X": -1928,
           "Y": 852,
-          "Z": null
+          "Z": -4
         }
       }
     ]
@@ -9674,11 +9656,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "questReward",
         "Position": {
           "X": -1925,
           "Y": 944,
-          "Z": null
+          "Z": -8
         }
       }
     ]
@@ -9691,11 +9673,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1925,
           "Y": 944,
-          "Z": null
+          "Z": -8
         }
       }
     ]
@@ -9707,12 +9689,12 @@
     "Description": "Rewarded for completing the Wyrmway trials at Dragon\u0027s Sanctum.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "questReward",
         "Position": {
           "X": 633,
           "Y": -989,
-          "Z": null
+          "Z": 25
         }
       }
     ]
@@ -9724,12 +9706,12 @@
     "Description": "Found on an altar (X: 636 Y: -964) next to Ansur in the The Dragon\u0027s Sanctum.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "loot",
         "Position": {
           "X": 636,
           "Y": -964,
-          "Z": null
+          "Z": 21
         }
       }
     ]
@@ -9741,12 +9723,12 @@
     "Description": "Can be looted from Enver Gortash.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -26,
           "Y": 211,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9758,12 +9740,12 @@
     "Description": "Can be looted from Enver Gortash.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -26,
           "Y": 211,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9775,12 +9757,12 @@
     "Description": "Can be looted from Enver Gortash.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -26,
           "Y": 211,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9792,12 +9774,12 @@
     "Description": "Can be looted from Enver Gortash.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -26,
           "Y": 211,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9809,21 +9791,12 @@
     "Description": "Looted from Iron Consul Mian and/or Nuff.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -13,
           "Y": 202,
-          "Z": null
-        }
-      },
-      {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
-        "Position": {
-          "X": -10,
-          "Y": 212,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9835,12 +9808,12 @@
     "Description": "Found in a locked Gilded Chest (X: -32 Y: 219) on the top floor of Wyrm\u0027s Rock Fortress",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "loot",
         "Position": {
           "X": -32,
           "Y": 219,
-          "Z": null
+          "Z": 75
         }
       }
     ]
@@ -9852,12 +9825,12 @@
     "Description": "Found in an Opulent Chest (X: -32 Y: 198) on the top floor of Wyrm\u0027s Rock Fortress.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "loot",
         "Position": {
           "X": -32,
           "Y": 198,
-          "Z": null
+          "Z": 74
         }
       }
     ]
@@ -9869,12 +9842,12 @@
     "Description": "Can be found in a chest at Wyrm\u0027s Rock Fortress at (X: -28 Y: 184)",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "BGO_Main_A",
+        "Acquisition": "loot",
         "Position": {
           "X": -28,
           "Y": 184,
-          "Z": null
+          "Z": 44
         }
       }
     ]
@@ -9887,11 +9860,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1293,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -9904,11 +9877,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1293,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -9921,11 +9894,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1293,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -9938,11 +9911,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -1292,
-          "Y": 501,
-          "Z": null
+          "X": -1293,
+          "Y": 503,
+          "Z": 1
         }
       }
     ]
@@ -9955,11 +9928,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": -1292,
-          "Y": 505,
-          "Z": null
+          "X": -1293,
+          "Y": 503,
+          "Z": 1
         }
       }
     ]
@@ -9972,11 +9945,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1248,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -9989,11 +9962,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1248,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -10006,11 +9979,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": -1248,
           "Y": 503,
-          "Z": null
+          "Z": 1
         }
       }
     ]
@@ -10023,11 +9996,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10040,11 +10013,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10057,11 +10030,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10074,11 +10047,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10091,11 +10064,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10108,11 +10081,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10125,11 +10098,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10142,11 +10115,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "buy",
         "Position": {
           "X": -1263,
           "Y": 511,
-          "Z": null
+          "Z": -1
         }
       }
     ]
@@ -10159,11 +10132,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 61,
           "Y": 1004,
-          "Z": null
+          "Z": -52
         }
       }
     ]
@@ -10176,11 +10149,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 61,
           "Y": 1004,
-          "Z": null
+          "Z": -52
         }
       }
     ]
@@ -10193,11 +10166,11 @@
     "Locations": [
       {
         "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "Acquisition": "killOrSteal",
         "Position": {
           "X": 61,
           "Y": 1004,
-          "Z": null
+          "Z": -52
         }
       }
     ]
@@ -10209,12 +10182,12 @@
     "Description": "Looted from Prince Orpheus.",
     "Locations": [
       {
-        "RegionId": "CTY_Main_A",
-        "Acquisition": null,
+        "RegionId": "INT_Main_A",
+        "Acquisition": "killOrSteal",
         "Position": {
-          "X": 53,
-          "Y": 3238,
-          "Z": null
+          "X": -174,
+          "Y": -1159,
+          "Z": -24
         }
       }
     ]
